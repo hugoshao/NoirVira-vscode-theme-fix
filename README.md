@@ -17,7 +17,7 @@ A sleek, modern dark theme for VS Code with high contrast, black-gold aesthetics
 ## 安装到 Cursor 编辑器
 
 1. 将本主题文件夹（包含 package.json 和 themes 文件夹）复制到 Cursor 的扩展目录（通常与 VS Code 相同，如：`C:\Users\你的用户名\.vscode\extensions`）。
-2. 重启 VsCode/Cursor。
+2. 重启 Cursor。
 3. 在主题选择器中查找 Noir Vira-FIX。
 
 ---
