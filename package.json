@@ -1,0 +1,22 @@
+{
+  "name": "noir-vira-fix",
+  "displayName": "Noir Vira-FIX",
+  "description": "A dark theme similar to Vira Carbon (FIX 版)",
+  "version": "0.0.2",
+  "engines": {
+    "vscode": "^1.101.0",
+    "cursor": "*"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Noir Vira-FIX",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Noir Vira-color-theme.json"
+      }
+    ]
+  }
+}
